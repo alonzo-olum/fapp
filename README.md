@@ -1,1 +1,6 @@
-# minimalist php,JS patcher project
+# minimalist projects:
+# Languages:
+  - Java
+  - PHP
+  - Native JS
+  
